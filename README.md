@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @bhagwanravi
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning reactjs
-- 📫 How to reach me from instagram
+- 🌱 I’m looking for software engineer job
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
